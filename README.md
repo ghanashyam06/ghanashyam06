@@ -1,6 +1,3 @@
-# Professional GitHub Profile README
-
-```md
 <h1 align="center">Hi 👋, I'm Ghanashyam Kodekandla</h1>
 <h3 align="center">Computer Science Student • Full Stack Developer • Mobile App Developer</h3>
 
@@ -159,50 +156,6 @@
 </p>
 ```
 
----
-
-# Why This Looks More Professional
-
-* Clean section-based layout
-* Reduced logo clutter
-* Proper grouping of technologies
-* Consistent icon sizing
-* Better typography hierarchy
-* Professional GitHub stats styling
-* Better recruiter readability
-* Stronger technical branding
-* Cleaner spacing and alignment
-* Highlights leadership + internship experience
-
----
-
-# Important Improvements
-
-Instead of:
-
-* dumping 30+ random logos together
-* uneven icon sizes
-* mixed branding styles
-
-This version:
-
-* organizes technologies by category
-* uses consistent SkillIcons styling
-* improves visual hierarchy
-* looks closer to senior developer profiles
-* improves portfolio/recruiter impression
-
----
-
-# Recommended Next Improvements
-
-Add:
-
-* Featured Projects section
-* LeetCode stats
-* Contribution snake animation
-* Blog/articles section
-* Certifications section
 * Current learning roadmap
 * Visitor counter badge redesign
 
