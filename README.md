@@ -5,6 +5,10 @@
   Passionate about building scalable web applications, mobile apps, developer tools, and innovative technical solutions.
 </p>
 
+<p align="center">
+  🚀 Open to collaborations, internships, freelance opportunities, and innovative technical projects.
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -35,12 +39,18 @@
   <a href="https://linkedin.com/in/ghanashyamkodekandla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
+  &nbsp;&nbsp;
+  
   <a href="https://twitter.com/ghanashyam_26" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="50" />
   </a>
+  &nbsp;&nbsp;
+  
   <a href="https://instagram.com/ghanashyam_06" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
+  &nbsp;&nbsp;
+  
   <a href="https://www.hackerrank.com/ghanashyam_06" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45" />
   </a>
@@ -48,55 +58,77 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 ### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" />
 </p>
 
 ### Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 ### Mobile App Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;
   <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" />
 </p>
 
 ### AI / ML & Others
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" /> &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="48" height="48" />
 </p>
 
 ---
 
-## 💼 Experience Highlights
+# 💼 Experience Highlights
 
 ### 🏢 Netrik Technologies Pvt Ltd
 **Mobile Application Developer Intern**
@@ -118,10 +150,11 @@
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 - 📧 Email: **mayhsanahg@gmail.com**
 - 🌐 Portfolio: **https://ghanashyam-portfolio.netlify.app/**
 - 💼 LinkedIn: **https://linkedin.com/in/ghanashyamkodekandla**
 
 ---
+```
