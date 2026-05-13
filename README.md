@@ -118,36 +118,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanashyam06&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanashyam06&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanashyam06&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghanashyam06&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 Email: **mayhsanahg@gmail.com**
 - 🌐 Portfolio: **https://ghanashyam-portfolio.netlify.app/**
-- 💼 LinkedIn: **linkedin.com/in/ghanashyamkodekandla**
+- 💼 LinkedIn: **https://linkedin.com/in/ghanashyamkodekandla**
 
 ---
 
@@ -156,13 +131,3 @@
 </p>
 ```
 
-* Current learning roadmap
-* Visitor counter badge redesign
-
-This README structure is optimized for:
-
-* recruiters
-* internship applications
-* GitHub profile branding
-* portfolio traffic
-* technical community visibility
