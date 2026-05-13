@@ -1,23 +1,215 @@
-<h1 align="center">Hi 👋, I'm ghanashyam kodekandla</h1>
-<h3 align="center">Computer Science Student & Full Stack Developer</h3>
+# Professional GitHub Profile README
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanashyam06&label=Profile%20views&color=0e75b6&style=flat" alt="ghanashyam06" /> </p>
+```md
+<h1 align="center">Hi 👋, I'm Ghanashyam Kodekandla</h1>
+<h3 align="center">Computer Science Student • Full Stack Developer • Mobile App Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://ghanashyam-portfolio.netlify.app/](https://ghanashyam-portfolio.netlify.app/)
-
-- 📫 How to reach me **mayhsanahg@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ghanashyam_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghanashyam_26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghanashyamkodekandla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghanashyamkodekandla" height="30" width="40" /></a>
-<a href="https://instagram.com/ghanashyam_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghanashyam_06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ghanashyam_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ghanashyam_06" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building scalable web applications, mobile apps, developer tools, and innovative technical solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanashyam06&show_icons=true&locale=en&layout=compact" alt="ghanashyam06" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanashyam06&show_icons=true&locale=en" alt="ghanashyam06" /></p>
+- 🎓 Computer Science Student passionate about Full Stack Development & Cloud Technologies
+- 💻 Building modern web and mobile applications with scalable architectures
+- 📱 Completed <b>Memo Banao</b>, a productivity-focused mobile application
+- ☁️ Learning and working with Google Cloud Platform (GCP), DevOps & deployment workflows
+- 👨‍💼 Project Manager at CIE MLRIT managing student innovation programs and technical projects
+- 🌱 Currently exploring AI integrations, scalable backend systems, and system design
+- ⚡ Strong interest in product development, UI/UX, cloud computing, and technical leadership
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://ghanashyam-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghanashyamkodekandla" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="https://twitter.com/ghanashyam_26" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+  </a>
+  <a href="https://instagram.com/ghanashyam_06" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  <a href="https://www.hackerrank.com/ghanashyam_06" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,postman" />
+</p>
+
+### Mobile App Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" />
+</p>
+
+### AI / ML & Others
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="48" height="48" />
+</p>
+
+---
+
+## 💼 Experience Highlights
+
+### 🏢 Netrik Technologies Pvt Ltd
+**Mobile Application Developer Intern**
+- Completed Memo Banao mobile application
+- Worked on UI implementation, debugging, testing, and feature integration
+- Learned Google Cloud Platform (GCP) and deployment workflows
+- Improved mobile application performance and user experience
+
+### 🚀 CIE (Center for Innovation and Entrepreneurship) - MLRIT
+**Project Manager**
+- Managed first-year student innovation and micro-project programs
+- Coordinated mentors, student projects, IEEE papers, and documentation
+- Handled project finalization, budgeting, remuneration, and operations
+
+### 💻 CODE_MLRIT (Community of Developers and Engineers)
+**Technical Chair Person**
+- Leading technical initiatives and department-level development activities
+- Mentoring students and organizing technical events/workshops
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanashyam06&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanashyam06&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanashyam06&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghanashyam06&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **mayhsanahg@gmail.com**
+- 🌐 Portfolio: **https://ghanashyam-portfolio.netlify.app/**
+- 💼 LinkedIn: **linkedin.com/in/ghanashyamkodekandla**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghanashyam06&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+```
+
+---
+
+# Why This Looks More Professional
+
+* Clean section-based layout
+* Reduced logo clutter
+* Proper grouping of technologies
+* Consistent icon sizing
+* Better typography hierarchy
+* Professional GitHub stats styling
+* Better recruiter readability
+* Stronger technical branding
+* Cleaner spacing and alignment
+* Highlights leadership + internship experience
+
+---
+
+# Important Improvements
+
+Instead of:
+
+* dumping 30+ random logos together
+* uneven icon sizes
+* mixed branding styles
+
+This version:
+
+* organizes technologies by category
+* uses consistent SkillIcons styling
+* improves visual hierarchy
+* looks closer to senior developer profiles
+* improves portfolio/recruiter impression
+
+---
+
+# Recommended Next Improvements
+
+Add:
+
+* Featured Projects section
+* LeetCode stats
+* Contribution snake animation
+* Blog/articles section
+* Certifications section
+* Current learning roadmap
+* Visitor counter badge redesign
+
+This README structure is optimized for:
+
+* recruiters
+* internship applications
+* GitHub profile branding
+* portfolio traffic
+* technical community visibility
