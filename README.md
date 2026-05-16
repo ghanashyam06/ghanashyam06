@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hi 👋, I'm Ghanashyam Kodekandla ⚡</h1>
+<h1 align="center">⚡ Hi, I'm Ghanashyam Kodekandla ⚡</h1>
 
 <h3 align="center">
 Computer Science Student • Full Stack Developer • Mobile App Developer
